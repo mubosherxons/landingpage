@@ -1,0 +1,40 @@
+/* Slick slider */
+.slick-slider{
+    overflow: hidden !important;
+    padding: 30px !important;
+}
+
+.orders__container-item{
+    margin-top: 160px;
+}
+
+.slider__item{
+    display: flex !important;
+    justify-content: center !important;
+    flex-direction: column;
+    align-items: center !important;
+}
+
+.orders__slider-desc{
+    margin: 40px 0;
+}
+
+.orders__slider-info{
+    text-align: center;
+    width: 30% ;
+    margin-top: 80px !important;
+    margin: auto !important;
+}
+
+.main__orders-footer {
+    display: flex;
+    align-items: center; 
+    justify-content: space-evenly;
+}
+
+
+.orders__container-item::-webkit-scrollbar{
+    width: 100% !important;
+    overflow-x: hidden !important;
+}
+

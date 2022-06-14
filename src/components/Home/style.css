@@ -1,0 +1,46 @@
+.main__home-container{
+   background: linear-gradient(287.15deg, #450E4B 0%, #3C0C41 24.48%, rgba(207, 0, 99, 0) 100%),
+linear-gradient(0deg, #CF0063, #CF0063);
+}
+
+.home__banner-container{
+   display: flex;
+   align-items: center;
+   justify-content: space-between;
+   max-width: 1442px !important;
+   margin: 0 auto;
+} 
+
+
+.home-info__title{
+   font-size: 80px;
+   font-weight: 400 !important;
+   color: #fff;
+   line-height: 80px
+}
+
+.home-info__desc{
+   font-size: 30px;
+   line-height: 44px;
+   color: #fff;
+}
+
+
+.home-info__btn{
+   background: #FC0A7E;
+   width: 170px;
+   font-size: 16px;
+   border: none;
+   color: #fff;
+   padding: 20px 40px;
+   line-height: 24px;
+}
+.home__banner{
+   transform: translateX(20%);
+}
+
+.home__footer{
+   display: flex;
+   justify-content: center;
+   padding: 30px;
+}
